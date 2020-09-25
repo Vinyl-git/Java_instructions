@@ -9,6 +9,7 @@ Kwadratowe nawiasy - zalicza sie do zakresu
 
 package instructions;
 
+
 import java.util.Scanner;
 
 public class Exercise4 {

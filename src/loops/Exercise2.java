@@ -9,6 +9,8 @@ import java.util.Scanner;
 public class Exercise2 {
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
+        System.out.println("Podaj liczbe: ");
+
         int userNumber = userInput.nextInt();
 
         for (int x = 1; x <= userNumber; x++) {

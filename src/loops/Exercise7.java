@@ -29,6 +29,7 @@ public class Exercise7 {
             }
             i++;
         }
-        System.out.println("Najwyzsza liczba podzielna przez 4 to: " + divisibleByFour);
+        System.out.print("Najwyzsza liczba podzielna przez 4 to: " + divisibleByFour);
+
     }
 }
